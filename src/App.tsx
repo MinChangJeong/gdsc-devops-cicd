@@ -6,6 +6,8 @@ function App() {
     ? <></>
     : <>Dev Mode Detected</>;
 
+  const lastUpdatedTime = '06/02 오후 09:38!';
+  
   return (
     <div className="App">
       <header className="App-header">
